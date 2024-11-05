@@ -71,5 +71,7 @@ print(gene_name1+gene_name2)
 
 P54 = 3.99
 PCKS9 = 8.22
-CD47 = 2.52
+CD47 = 2.5
 mean_Gene_Expresion = (P54 + PCKS9 + CD47)/3
+
+new = "test"
